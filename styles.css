@@ -1,0 +1,24 @@
+body{
+    color: rgb(233, 225, 225);
+    background-color: rgb(2, 2, 2);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#jump{
+    background-color: rgb(241, 241, 237);
+    color: rgb(255, 1, 1);
+
+}
+
+ol{
+    background-color: rgb(0, 0, 0);
+}
+
+.link{
+    color: rgb(2, 196, 255);
+
+}
+
+h3{
+    color: greenyellow;
+}
