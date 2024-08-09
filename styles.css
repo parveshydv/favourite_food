@@ -5,8 +5,8 @@ body{
 }
 
 #jump{
-    background-color: rgb(241, 241, 237);
-    color: rgb(255, 1, 1);
+    color: rgb(79, 230, 48);
+    font-size: 30px;
 
 }
 
@@ -21,4 +21,40 @@ ol{
 
 h3{
     color: greenyellow;
+}
+
+.heading{
+    text-align: center;
+    display: block;
+    border: 4px dashed darkmagenta;
+
+}
+
+
+
+
+.image{
+    border: 5px solid rgb(144, 237, 3);
+    display: inline-block;
+
+    width: 500px;
+    height: 500px;
+  
+}
+div{
+    display: inline-block;
+
+  
+
+    width: 500px;
+    height: 300px;
+    margin :20px;
+
+}
+
+span{
+    display: block;
+ 
+    margin: 20px;
+    padding: 12px;
 }
